@@ -1,0 +1,28 @@
+.intro{
+    height: 100vh;
+    background-image: url(../assets/images/bg/main.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.tranding{
+    height: auto;
+    background-image: url(../assets/images/bg/scifi.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Superhero{
+    height: auto;
+    background-image: url(../assets/images/bg/spiderman.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.card{
+    background-color: brown;
+    border: none;
+}
+.tombol{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
